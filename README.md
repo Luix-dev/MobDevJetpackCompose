@@ -10,7 +10,7 @@ _Funktioniert wie eine normale Funktion. Wird aber mit **@Composable** annotiert
 
 * Wie erzeugen wir eine Container Function? Was ist deren Zweck?
 
-_booh_
+_Es wird ein Composable Element erzeugt, welches z.B eine Unit als Parameter nimmt. So können allen Children ein Design übergeben oder ein Wert übergeben werden._
 
 ---
 
